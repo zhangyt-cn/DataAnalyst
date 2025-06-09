@@ -1,0 +1,18 @@
+Can we forecast future conversion rates based on historical trends in ad spend and engagement scores?
+ What is the distribution of conversion rates across different levels of ad spend, and are there any notable outliers or clusters that warrant further investigation?
+ Are there any relationships between the engagement score and ad spend that could help us optimize our marketing budget allocation?
+ Can we use clustering analysis to identify distinct groups of customers with similar conversion rates, engagement scores, and ad spend patterns?
+ Can we use regression analysis to quantify the impact of ad spend and engagement scores on conversion rates, and identify the most significant predictors of marketing success?
+ How does the distribution of engagement scores change in response to increases or decreases in ad spend, and are there any notable shifts or outliers in this relationship?
+ Can we develop a segmentation strategy based on the relationships between ad spend, engagement scores, and conversion rates to target high-value customer groups?
+ Can we use decision tree analysis to identify the most important factors driving conversion rates, and develop a predictive model that incorporates these factors?
+What is the average conversion rate for different ranges of ad spend, and how can this information inform budget allocation decisions?
+ Can we identify any patterns in the data where engagement scores are high but conversion rates are low, and what might be the underlying causes of these discrepancies?
+ Can we identify any patterns in the data where ad spend is high but conversion rates are low, and what might be the underlying causes of these discrepancies?
+ Can we develop a predictive model to forecast customer lifetime value based on historical ad spend, engagement score, and conversion rate data?
+ Can we predict the impact of changes in ad spend on conversion rates based on historical trends and relationships between the metrics?
+ Can we predict the impact of changes in engagement score on conversion rates based on historical trends and relationships between the metrics?
+ How do changes in ad spend affect the distribution of conversion rates, and are there any shifts in the mean or variance?
+ Can we develop a clustering analysis to group similar time periods based on conversion rates, ad spend, and engagement scores?
+ How do engagement scores impact the effectiveness of ad spend, and are there any interactions between these variables?
+ Are there any relationships between the variance of engagement scores and ad spend, and do these relationships inform marketing strategy?
