@@ -5,8 +5,7 @@ This agent is designed to visualize your uploaded data, supporting basic graphs 
 
 ![Demo](assets/page.png)
 
-### Note
-Currently, ONLY CSV file is processed, and the graphs will be decided from four types of graph: line, bar, pie, scatter. Yet more feature updates are coming soon!
+> Note: currently, ONLY CSV file is processed, and the graphs will be decided from four types of graph: line, bar, pie, scatter. Yet more feature updates are coming soon!
 
 ## Quick start
 ### 😺 Environment
